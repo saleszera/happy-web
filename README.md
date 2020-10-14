@@ -27,7 +27,8 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Manipulação de mapas utilizando `leftlet`;
 - Manipulação de variáveis ambiente;
 
-- [ ] Dia 2:
+- [X] Dia 2:
+- [Desenvolvimento do back-end](https://github.com/saleszera/happy-backend)
 - [ ] Dia 3:
 - [ ] Dia 4:
 - [ ] Dia 5:
