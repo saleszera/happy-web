@@ -5,8 +5,6 @@
 ## Sobre
 Este é H**app**y, uma aplicação que exibe todos os orfanatos próximos da sua localização e que podem ser visitados. Visite um orfanato e mude o dia de uma criança!
 
-![giphy happy](https://media.giphy.com/media/WO8Ip1VawZvaigcC4a/giphy.gif)
-
 ## 🛠️  Principais ferramentas/tecnilogias utilizadas
 - ReactJS
 - React Router Dom
@@ -26,10 +24,20 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Manipulação de imagens `.svg` com React;
 - Manipulação de mapas utilizando `leftlet`;
 - Manipulação de variáveis ambiente;
+![giphy happy](https://media.giphy.com/media/WO8Ip1VawZvaigcC4a/giphy.gif)
 
-- [X] Dia 2:
+- [X] **Dia 2**:
 - [Desenvolvimento do back-end](https://github.com/saleszera/happy-backend)
-- [ ] Dia 3:
+- [X] **Dia 3**:
+- Como conectar o front-end ao back-end;
+- Como utilizar o React Hook `useEffect` ao invés do `ComponentDidMount`;
+- Como utilizar o React Hook `useState` ao invés do conceito de estado convencional que utilizava classes.
+- Como utilizar o `useHistory` para redirecionamento de página;
+- Como abstrair componentes;
+- Como pegar coordenadas com base em cliques no mapa;
+- Como enviar múltiplas imagens do front-end para o back-end;
+- Como enviar dados Multipart Form do front-end para o back-end;
+![giphy happy](https://media.giphy.com/media/oL6vZn8MRIaBKjo8jT/giphy.gif)
 - [ ] Dia 4:
 - [ ] Dia 5:
 
