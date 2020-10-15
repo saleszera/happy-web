@@ -24,7 +24,7 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Manipulação de imagens `.svg` com React;
 - Manipulação de mapas utilizando `leftlet`;
 - Manipulação de variáveis ambiente;
-![giphy happy](https://media.giphy.com/media/WO8Ip1VawZvaigcC4a/giphy.gif)
+- ![giphy happy](https://media.giphy.com/media/WO8Ip1VawZvaigcC4a/giphy.gif)
 
 - [X] **Dia 2**:
 - [Desenvolvimento do back-end](https://github.com/saleszera/happy-backend)
@@ -37,7 +37,7 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Como pegar coordenadas com base em cliques no mapa;
 - Como enviar múltiplas imagens do front-end para o back-end;
 - Como enviar dados Multipart Form do front-end para o back-end;
-![giphy happy](https://media.giphy.com/media/oL6vZn8MRIaBKjo8jT/giphy.gif)
+- ![giphy happy](https://media.giphy.com/media/oL6vZn8MRIaBKjo8jT/giphy.gif)
 - [ ] Dia 4:
 - [ ] Dia 5:
 
