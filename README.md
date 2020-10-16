@@ -38,7 +38,8 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Como enviar múltiplas imagens do front-end para o back-end;
 - Como enviar dados Multipart Form do front-end para o back-end;
 - ![giphy happy](https://media.giphy.com/media/oL6vZn8MRIaBKjo8jT/giphy.gif)
-- [ ] Dia 4:
+- [X] **Dia 4**:
+- [Inicio mobile](https://github.com/saleszera/happy-mobile)
 - [ ] Dia 5:
 
 ## 💥️ Bonus
