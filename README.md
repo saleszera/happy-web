@@ -40,7 +40,8 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - ![giphy happy](https://media.giphy.com/media/oL6vZn8MRIaBKjo8jT/giphy.gif)
 - [X] **Dia 4**:
 - [Inicio mobile](https://github.com/saleszera/happy-mobile)
-- [ ] Dia 5:
+- [X] **Dia 5**:
+- [Continuação/fim do mobile](https://github.com/saleszera/happy-mobile)
 
 ## 💥️ Bonus
 Estas são as funcionalidades que adicionei ao projeto até o momento.
